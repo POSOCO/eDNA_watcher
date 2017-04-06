@@ -1,0 +1,10 @@
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\bin\Debug\eDNA_watcher.exe.config
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\bin\Debug\eDNA_watcher.exe
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\bin\Debug\eDNA_watcher.pdb
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\bin\Debug\EzDNAApiNet.dll
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.csprojResolveAssemblyReference.cache
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.Form1.resources
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.Properties.Resources.resources
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.csproj.GenerateResource.Cache
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.exe
+E:\Nagasudhir\VSProjects\eDNA_watcher\eDNA_watcher\obj\Debug\eDNA_watcher.pdb
